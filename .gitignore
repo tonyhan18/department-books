@@ -1,6 +1,10 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local servers and caches
+*.log
 __pycache__/
-*.pyc
-node_modules/
-.wrangler/
-.dev.vars
-.env
